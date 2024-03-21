@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(#ffe4ff, #6c0044);
+    font-family: 'poppins';
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+input, button{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.correct{
+    background: #dffff2;
+    border-color: #00d397;
+}
